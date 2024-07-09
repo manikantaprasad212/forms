@@ -1,0 +1,15 @@
+label{
+    display:inline-block;
+    width: 100px;
+}
+div{
+    margin:20px;
+}
+form{
+    background-color: bisque;
+    display:inline-block;
+    padding: 20px;
+}
+fieldset{
+    margin: 10px;
+}
